@@ -1,4 +1,5 @@
 Capstone Project Repository
+
 Welcome to the Capstone Project repository! This space captures the essence of my high school polytechnic capstone project. Explore the project synopsis, presentation slides, and documentation to gain insights into this culmination of my academic journey.
 
 Project Overview
